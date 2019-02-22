@@ -45,7 +45,7 @@ ms.locfileid: "51659491"
  Use [hierarchyid](../t-sql/data-types/hierarchyid-data-type-method-reference.md) como tipo de datos para crear tablas con una estructura jerárquica o para describir la estructura jerárquica de datos almacenados en otra ubicación. Use las [funciones hierarchyid](https://msdn.microsoft.com/library/01a050f5-7580-4d5f-807c-7f11423cbb06) de [!INCLUDE[tsql](../includes/tsql-md.md)] para consultar y administrar los datos jerárquicos.  
   
 ##  <a name="keyprops"></a> Propiedades principales de hierarchyid  
- Un valor del tipo de datos **hierarchyid** representa una posición en una jerarquía de árbol. Los valores de **hierarchyid** tienen las siguientes propiedades.  
+ Un valor del tipo de dato **hierarchyid** representa una posición en una jerarquía de árbol. Los valores de **hierarchyid** tienen las siguientes propiedades.  
   
 -   Muy compactos  
   
