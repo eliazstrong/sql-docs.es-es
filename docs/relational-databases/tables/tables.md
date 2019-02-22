@@ -29,7 +29,7 @@ ms.locfileid: "51664924"
   
 -   El número de tablas de una base de datos se limita solo por el número de objetos admitidos en una base (2.147.483.647). Una tabla definida por el usuario estándar puede tener hasta 1.024 columnas. El número de filas de la tabla solo está limitado por la capacidad de almacenamiento del servidor.  
   
--   Puede asignar propiedades a la tabla y a cada columna de la tabla para controlar los datos admitidos y otras propiedades. Por ejemplo, puede crear restricciones en una columna para no permitir valores nulos o para proporcionar un valor predeterminado si no se especifica un valor, o puede asignar una restricción de clave en la tabla que exige la unicidad o definir una relación entre las tablas.  
+-   Puede asignar propiedades a la tabla y a cada columna de la tabla para controlar los datos admitidos y otras propiedades. Por ejemplo, puede crear restricciones en una columna para no permitir valores vacios o para proporcionar un valor predeterminado si no se especifica un valor, o puede asignar una restricción de clave en la tabla que exige la unicidad o definir una relación entre las tablas.  
   
 -   Los datos de la tabla se pueden comprimir por filas o por página. La compresión de datos puede permitir que se almacenen más filas en una página. Para más información, consulte [Data Compression](../../relational-databases/data-compression/data-compression.md).  
   
